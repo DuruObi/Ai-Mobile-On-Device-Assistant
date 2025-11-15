@@ -1,3 +1,0 @@
-/workspaces/Ai-Mobile-On-Device-Assistant/native_modules/android_inference/build/CMakeFiles/native-lib.dir
-/workspaces/Ai-Mobile-On-Device-Assistant/native_modules/android_inference/build/CMakeFiles/edit_cache.dir
-/workspaces/Ai-Mobile-On-Device-Assistant/native_modules/android_inference/build/CMakeFiles/rebuild_cache.dir
