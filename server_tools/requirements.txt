@@ -1,0 +1,5 @@
+transformers==4.44.0
+torch==2.0.1
+numpy
+sentencepiece
+onnx
