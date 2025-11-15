@@ -11,5 +11,5 @@ Privacy-first, low-latency AI assistant that runs fully on Arm-based mobile devi
 ## Quick demo (Android)
 1. Clone:
    ```bash
-   git clone https://github.com/<your-username>/ai-mobile-ondevice-assistant.git
+   git clone https://github.com/DuruObi/ai-mobile-ondevice-assistant.git
    cd ai-mobile-ondevice-assistant
