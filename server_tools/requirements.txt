@@ -1,5 +1,6 @@
-transformers==4.44.0
-torch==2.0.1
-numpy
+torch
+transformers
 sentencepiece
-onnx
+numpy
+tqdm
+huggingface_hub
